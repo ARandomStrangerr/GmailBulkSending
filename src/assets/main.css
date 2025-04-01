@@ -1,0 +1,22 @@
+@import './reset.css';
+
+html {
+	width: 100vw;
+	height: 100vh;
+	padding: 0px;
+	font-family: "Open Sans", sans-serif;
+	font-size: 14px;
+}
+body {
+	width: 100vw;
+	height: 100vh;
+	margin: 0px;
+}
+input {
+	font-family: "Open Sans", sans-serif;
+	font-size: 14px;
+}
+textarea {
+	font-family: "Open Sans", sans-serif;
+	font-size: 14px;
+}
